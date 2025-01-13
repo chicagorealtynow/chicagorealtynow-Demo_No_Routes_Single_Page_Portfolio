@@ -5,29 +5,29 @@ import { fadeIn } from "../../framerMotion/variants";
 
 const projects = [
   {
-    name: "Vacation of Africa",
+    name: "Lorem ipsum dolor sit amet",
     year: "Mar2022",
     align: "right",
     image: "/images/website-img-1.jpg",
     link: "#"
   },
   {
-    name: "Moola App",
-    year: "Sept2022",
+    name: "Lorem ipsum dolor sit amet",
+    year: "Sept2025",
     align: "left",
     image: "/images/website-img-2.webp",
     link: "#"
   },
   {
-    name: "Tourzania",
-    year: "Jan2023",
+    name: "Lorem ipsum dolor sit amet",
+    year: "Jan2025",
     align: "right",
     image: "/images/website-img-3.jpg",
     link: "#"
   },
   {
-    name: "Bank of Luck",
-    year: "May2024",
+    name: "Lorem ipsum dolor sit amet",
+    year: "May2025",
     align: "left",
     image: "/images/website-img-4.jpg",
     link: "#"
